@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <Folder Include="DataRepository\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Config\" />
     <Folder Include="Services\Business\" />
     <Folder Include="Services\Generic\" />
     <Folder Include="Services\Data\" />
